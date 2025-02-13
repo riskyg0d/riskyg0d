@@ -7,4 +7,5 @@
 riskyg0d/riskyg0d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,html,css,react,&perline=3)](https://skillicons.dev)
+My Top Skills are 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,html,css,react,&perline=5)](https://skillicons.dev)
