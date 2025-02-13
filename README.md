@@ -10,4 +10,4 @@ You can click the Preview link to take a look at your changes.
 My Skills
 
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,html,css,react,&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,javascript,html,css,react,&perline=10)](https://skillicons.dev)
